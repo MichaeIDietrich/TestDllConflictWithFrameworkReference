@@ -1,0 +1,2 @@
+# TestDllConflictWithFrameworkReference
+This repository demonstrates that conflicts between DLLs from NuGet packages and FrameworkReferences are resolved arbitrarily instead of prefering the ones from FrameworkReferences.
